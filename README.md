@@ -1,7 +1,7 @@
 # google-search-api-with-puppeteer-in-node
 API feita em Node.js que faz uma pesquisa no google e devolve o resultado em JSON
 
-Para rodar o código é necessario ter node instalado, feito isso, é preciso baixar o express, o puppeteer, o cors e o através dos seguintes comandos:
+Para rodar o código é necessario ter node instalado, feito isso, é preciso baixar o express, o puppeteer, o cors e o nodemon através dos seguintes comandos:
 
 ##
 npm install express
